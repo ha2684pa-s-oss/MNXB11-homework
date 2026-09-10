@@ -1,1 +1,1 @@
-Once upon a time there was an **evil** _witch_ and everyone was afraid of her.
+Once upon a time there was an **sneaky** _goblin_ who hid under a hill.
