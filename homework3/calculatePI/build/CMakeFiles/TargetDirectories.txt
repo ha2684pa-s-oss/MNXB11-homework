@@ -1,0 +1,5 @@
+/home/hannap/mnxb11/MNXB11-homework/homework3/calculatePI/build/CMakeFiles/edit_cache.dir
+/home/hannap/mnxb11/MNXB11-homework/homework3/calculatePI/build/CMakeFiles/rebuild_cache.dir
+/home/hannap/mnxb11/MNXB11-homework/homework3/calculatePI/build/src/CMakeFiles/main.dir
+/home/hannap/mnxb11/MNXB11-homework/homework3/calculatePI/build/src/CMakeFiles/edit_cache.dir
+/home/hannap/mnxb11/MNXB11-homework/homework3/calculatePI/build/src/CMakeFiles/rebuild_cache.dir
