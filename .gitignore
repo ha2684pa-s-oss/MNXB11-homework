@@ -1,10 +1,5 @@
 # vs code
-/home/hannap/mnxb11/MNXB11-homework/.vscode
+.vscode/settings.json
 
-# cmake
-/home/hannap/mnxb11/MNXB11-homework/homework3/calculatePI/build/CMakeFiles
-/home/hannap/mnxb11/MNXB11-homework/homework3/calculatePI/build/cmake_install.cmake
-/home/hannap/mnxb11/MNXB11-homework/homework3/calculatePI/build/CMakeCache.txt
-
-# cmake build directory
-/home/hannap/mnxb11/MNXB11-homework/homework3/calculatePI/build
+# CMake
+calculatePI/build
