@@ -1,5 +1,12 @@
 # vs code
 .vscode/settings.json
+homework3/.vscode/settings.json
 
 # CMake
 calculatePI/build
+calculatePI/.CMakeLists.txt.un~
+calculatePI/CMakeLists.txt
+calculatePI/src/CMakeLists.txt
+
+# Tutorial 4 executable
+tutorial4/part2/control_flow
