@@ -25,4 +25,8 @@ Add all untracked files and unstaged changes:
 ``` 
 
 
-
+## Useful commands
+List files seen by git:
+```
+git ls-files
+```
